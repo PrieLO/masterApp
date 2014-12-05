@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2189E7A5-FC91-4974-BB4C-F2E7013B3B26</string>
+	<key>IDESourceControlProjectName</key>
+	<string>test1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F14FE252566DE3C8EE39677FCA016BC8E337A5D</key>
+		<string>https://github.com/PrieLO/masterApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Test1/test1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F14FE252566DE3C8EE39677FCA016BC8E337A5D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PrieLO/masterApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F14FE252566DE3C8EE39677FCA016BC8E337A5D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F14FE252566DE3C8EE39677FCA016BC8E337A5D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>masterApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
